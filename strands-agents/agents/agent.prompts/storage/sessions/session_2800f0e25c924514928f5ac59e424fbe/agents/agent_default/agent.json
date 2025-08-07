@@ -1,0 +1,10 @@
+{
+  "agent_id": "default",
+  "state": {},
+  "conversation_manager_state": {
+    "__name__": "SlidingWindowConversationManager",
+    "removed_message_count": 0
+  },
+  "created_at": "2025-08-06T03:15:35.396455+00:00",
+  "updated_at": "2025-08-06T03:15:35.396466+00:00"
+}

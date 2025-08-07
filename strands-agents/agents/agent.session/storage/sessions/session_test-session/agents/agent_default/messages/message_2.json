@@ -1,0 +1,14 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "text": "How are you today ?"
+      }
+    ]
+  },
+  "message_id": 2,
+  "redact_message": null,
+  "created_at": "2025-08-06T02:16:08.952454+00:00",
+  "updated_at": "2025-08-06T02:16:08.952457+00:00"
+}
